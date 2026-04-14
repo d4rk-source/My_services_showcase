@@ -1,4 +1,4 @@
-# Web3 Security Demo Showcase
+# My Service Showcase
 
 This repository demonstrates security services in action on two intentionally security-light demo dApps:
 
