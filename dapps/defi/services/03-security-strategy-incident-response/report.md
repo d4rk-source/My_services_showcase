@@ -1,4 +1,11 @@
-# Service 03 — Protocol Security Strategy & Incident Response (DeFi)
+# Security Strategy Report - DeFi
+
+## Methodology Followed
+
+1. Protocol deep dive: reviewed the architecture, codebase, and current security posture.
+2. Risk assessment: mapped vulnerabilities, attack surfaces, and threat vectors for the DeFi design.
+3. Strategy development: outlined the roadmap, audit timing, and operational security milestones.
+4. Report delivery: wrote the recommendations in a client-ready format.
 
 ## Security Strategy
 
@@ -20,14 +27,6 @@
 - Move owner actions to multisig
 - Add runbooks for parameter changes and emergency pauses
 - Add on-chain and off-chain alerting for abnormal debt/liquidity movement
-
-## Incident Response Plan
-
-1. Detect and classify incident severity
-2. Contain affected functions (pause/limit)
-3. Preserve evidence (tx traces, events, timelines)
-4. Patch and validate on testnet/fork
-5. Publish concise post-incident report with fixes and prevention steps
 
 ## Deliverables
 

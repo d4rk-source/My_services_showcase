@@ -17,8 +17,7 @@ Each dApp folder contains deliverables for the three core services listed on htt
 
 See:
 
-- `dapps/defi/services/`
-- `dapps/gambling/services/`
+- `SHOWCASE_EVIDENCE_INDEX.md`
 
 ## Existing Reference Projects
 

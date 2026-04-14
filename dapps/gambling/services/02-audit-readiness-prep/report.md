@@ -1,4 +1,11 @@
-# Service 02 — Audit Readiness & Competition Prep (Gambling)
+# Audit Readiness & Competition Prep Report - Gambling
+
+## Methodology Followed
+
+1. Vulnerability scan: checked the protocol for common fairness, payout, and trust issues.
+2. Code quality check: reviewed whether the project was organized clearly enough for outside review.
+3. Findings report generation: reduced the review into a concise readiness summary.
+4. Fix verification: defined the issues that should be rechecked after patching.
 
 ## Readiness Goal
 

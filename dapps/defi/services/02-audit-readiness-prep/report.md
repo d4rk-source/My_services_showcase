@@ -1,4 +1,11 @@
-# Service 02 — Audit Readiness & Competition Prep (DeFi)
+# Audit Readiness & Competition Prep Report - DeFi
+
+## Methodology Followed
+
+1. Vulnerability scan: identified the most obvious issues and review blockers.
+2. Code quality check: looked at how well the protocol is documented and organized for an external review.
+3. Findings report generation: condensed the issues into a concise readiness-focused summary.
+4. Fix verification: defined the changes that should be checked again before final audit submission.
 
 ## Readiness Goal
 

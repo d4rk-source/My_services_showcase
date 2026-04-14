@@ -1,4 +1,11 @@
-# Service 03 — Protocol Security Strategy & Incident Response (Gambling)
+# Security Strategy Report - Gambling
+
+## Methodology Followed
+
+1. Protocol deep dive: reviewed the game architecture, code paths, and the practical trust model around house operations.
+2. Risk assessment: mapped the likely vulnerabilities and attack surfaces for a gambling protocol.
+3. Strategy development: outlined a security roadmap, audit cadence, and governance improvements.
+4. Report delivery: wrote the recommendations in a format a client can use as an implementation plan.
 
 ## Security Strategy
 
@@ -19,14 +26,6 @@
 - Alerting on abnormal win-rate and payout spikes
 - Daily bankroll exposure limits
 - Operational playbooks for house solvency events
-
-## Incident Response Plan
-
-1. Detect and classify (fairness, treasury, privilege misuse)
-2. Contain by pausing affected game paths
-3. Preserve forensic evidence and timeline
-4. Patch and verify
-5. Communicate incident cause, impact, and remediation
 
 ## Deliverables
 

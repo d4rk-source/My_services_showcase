@@ -19,8 +19,12 @@ The game logic is intentionally simple and functional, with realistic beginner-l
 
 ## Service Outputs
 
-The three service deliverables are in:
+The service deliverables are in:
 
-- `services/01-smart-contract-audit.md`
-- `services/02-audit-readiness-prep.md`
-- `services/03-security-strategy-incident-response.md`
+- `services/01-smart-contract-audit/report.md`
+- `services/01-smart-contract-audit/diary.md`
+- `services/02-audit-readiness-prep/report.md`
+- `services/02-audit-readiness-prep/diary.md`
+- `services/03-security-strategy-incident-response/report.md`
+- `services/03-security-strategy-incident-response/report-post-incident-response.md`
+- `services/03-security-strategy-incident-response/diary.md`
